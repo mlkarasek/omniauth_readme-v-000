@@ -32,7 +32,8 @@ gem 'turbolinks'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'omniauth'
+gem 'omniauth-facebook'
 gem 'dotenv-rails'
 
 group :development, :test do
